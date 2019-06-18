@@ -1,4 +1,4 @@
-package com.instanceofcake.spring.springgarage;
+package com.instanceofcake.spring.springgarage.basic;
 
 public interface SortAlgo {
 	int[] sort(int[] unsortedNumbers);
